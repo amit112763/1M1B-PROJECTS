@@ -1,0 +1,82 @@
+[
+  {
+    "train_name": "Rajdhani Express",
+    "train_number": "12001",
+    "route": "New Delhi - Mumbai",
+    "cleanliness_score": 6.8,
+    "total_reports": 172,
+    "last_inspection": "2025-07-10T21:52:06.104960"
+  },
+  {
+    "train_name": "Shatabdi Express",
+    "train_number": "12002",
+    "route": "New Delhi - Chandigarh",
+    "cleanliness_score": 8.3,
+    "total_reports": 81,
+    "last_inspection": "2025-07-06T21:52:06.104974"
+  },
+  {
+    "train_name": "Duronto Express",
+    "train_number": "12005",
+    "route": "Mumbai - Delhi",
+    "cleanliness_score": 8.5,
+    "total_reports": 84,
+    "last_inspection": "2025-07-23T21:52:06.104978"
+  },
+  {
+    "train_name": "Vande Bharat",
+    "train_number": "22626",
+    "route": "Delhi - Varanasi",
+    "cleanliness_score": 7.3,
+    "total_reports": 179,
+    "last_inspection": "2025-07-25T21:52:06.104981"
+  },
+  {
+    "train_name": "Gatimaan Express",
+    "train_number": "12049",
+    "route": "Delhi - Agra",
+    "cleanliness_score": 8.3,
+    "total_reports": 139,
+    "last_inspection": "2025-07-09T21:52:06.104984"
+  },
+  {
+    "train_name": "Tejas Express",
+    "train_number": "22691",
+    "route": "Mumbai - Goa",
+    "cleanliness_score": 8.7,
+    "total_reports": 128,
+    "last_inspection": "2025-07-09T21:52:06.104987"
+  },
+  {
+    "train_name": "Humsafar Express",
+    "train_number": "12595",
+    "route": "Delhi - Patna",
+    "cleanliness_score": 8.4,
+    "total_reports": 155,
+    "last_inspection": "2025-07-22T21:52:06.104990"
+  },
+  {
+    "train_name": "Antyodaya Express",
+    "train_number": "22703",
+    "route": "Mumbai - Kolkata",
+    "cleanliness_score": 6.6,
+    "total_reports": 188,
+    "last_inspection": "2025-07-06T21:52:06.104993"
+  },
+  {
+    "train_name": "Jan Shatabdi",
+    "train_number": "12056",
+    "route": "Delhi - Jaipur",
+    "cleanliness_score": 7.9,
+    "total_reports": 181,
+    "last_inspection": "2025-07-12T21:52:06.104995"
+  },
+  {
+    "train_name": "Sampark Kranti",
+    "train_number": "12445",
+    "route": "Delhi - Bangalore",
+    "cleanliness_score": 6.8,
+    "total_reports": 192,
+    "last_inspection": "2025-07-25T21:52:06.104998"
+  }
+]

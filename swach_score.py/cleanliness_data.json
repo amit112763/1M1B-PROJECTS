@@ -1,0 +1,50 @@
+{
+    "reports": [],
+    "responses": [],
+    "stations": [
+        {
+            "id": "NDLS",
+            "name": "New Delhi",
+            "region": "Northern"
+        },
+        {
+            "id": "CSTM",
+            "name": "Mumbai CST",
+            "region": "Central"
+        },
+        {
+            "id": "HWH",
+            "name": "Howrah",
+            "region": "Eastern"
+        },
+        {
+            "id": "SBC",
+            "name": "Bengaluru City",
+            "region": "Southern"
+        },
+        {
+            "id": "MAS",
+            "name": "Chennai Central",
+            "region": "Southern"
+        }
+    ],
+    "trains": [
+        {
+            "number": "12301",
+            "name": "Rajdhani Express"
+        },
+        {
+            "number": "12951",
+            "name": "Mumbai Rajdhani"
+        },
+        {
+            "number": "12309",
+            "name": "Rajendra Nagar Express"
+        },
+        {
+            "number": "12627",
+            "name": "Karnataka Express"
+        }
+    ],
+    "photos": {}
+}

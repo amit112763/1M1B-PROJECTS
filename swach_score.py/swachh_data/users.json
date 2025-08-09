@@ -1,0 +1,216 @@
+{
+  "rahul_sharma": {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@email.com",
+    "phone": "9876543210",
+    "city": "New Delhi",
+    "join_date": "2024-01-15",
+    "total_points": 250,
+    "level": 5,
+    "reports_count": 25,
+    "achievements": [
+      "First Reporter",
+      "Frequent Flyer",
+      "Station Master"
+    ],
+    "favorite_routes": [
+      "New Delhi - Mumbai",
+      "Delhi - Jaipur"
+    ]
+  },
+  "priya_singh": {
+    "name": "Priya Singh",
+    "email": "priya.singh@email.com",
+    "phone": "9876543211",
+    "city": "Mumbai",
+    "join_date": "2024-02-10",
+    "total_points": 180,
+    "level": 4,
+    "reports_count": 18,
+    "achievements": [
+      "First Reporter",
+      "Quality Inspector"
+    ],
+    "favorite_routes": [
+      "Mumbai - Pune",
+      "Mumbai - Ahmedabad"
+    ]
+  },
+  "amit_kumar": {
+    "name": "Amit Kumar",
+    "email": "amit.kumar@email.com",
+    "phone": "9876543212",
+    "city": "Bangalore",
+    "join_date": "2024-03-05",
+    "total_points": 320,
+    "level": 6,
+    "reports_count": 32,
+    "achievements": [
+      "First Reporter",
+      "Frequent Flyer",
+      "Community Hero"
+    ],
+    "favorite_routes": [
+      "Bangalore - Chennai",
+      "Bangalore - Hyderabad"
+    ]
+  },
+  "sunita_patel": {
+    "name": "Sunita Patel",
+    "email": "sunita.patel@email.com",
+    "phone": "9876543213",
+    "city": "Ahmedabad",
+    "join_date": "2024-01-20",
+    "total_points": 150,
+    "level": 3,
+    "reports_count": 15,
+    "achievements": [
+      "First Reporter",
+      "Station Master"
+    ],
+    "favorite_routes": [
+      "Ahmedabad - Mumbai",
+      "Ahmedabad - Delhi"
+    ]
+  },
+  "vikash_gupta": {
+    "name": "Vikash Gupta",
+    "email": "vikash.gupta@email.com",
+    "phone": "9876543214",
+    "city": "Kolkata",
+    "join_date": "2024-02-28",
+    "total_points": 290,
+    "level": 6,
+    "reports_count": 29,
+    "achievements": [
+      "First Reporter",
+      "Frequent Flyer",
+      "Quality Inspector"
+    ],
+    "favorite_routes": [
+      "Kolkata - Delhi",
+      "Kolkata - Chennai"
+    ]
+  },
+  "akay": {
+    "name": "amit",
+    "email": "akakrai191@gmail.com",
+    "phone": "9911265837",
+    "city": "mairwa",
+    "join_date": "2025-08-02",
+    "total_points": 110,
+    "level": 3,
+    "reports_count": 8,
+    "achievements": [
+      "Photo Evidence"
+    ],
+    "favorite_routes": []
+  },
+  "Greens": {
+    "name": "Naveen",
+    "email": "amit.101219051923@ipu.ac.in",
+    "phone": "09911265837",
+    "city": "Surajmal Vihar",
+    "join_date": "2025-08-02",
+    "total_points": 0,
+    "level": 1,
+    "reports_count": 0,
+    "achievements": [],
+    "favorite_routes": []
+  },
+  "ravi1100": {
+    "name": "Ravi jain",
+    "email": "hiteshkumar110044@gmail.com",
+    "phone": "",
+    "city": "siwan",
+    "password": "AMit",
+    "user_type": "passenger",
+    "role_title": "Passenger",
+    "join_date": "2025-08-02",
+    "total_points": 40,
+    "level": 1,
+    "reports_count": 4,
+    "achievements": [
+      "First Reporter"
+    ],
+    "favorite_routes": []
+  },
+  "railwani": {
+    "name": "sanjay",
+    "email": "amit.101219051923@ipu.ac.in",
+    "phone": "999999991",
+    "city": "Surajmal Vihar",
+    "password": "rail1234",
+    "user_type": "stakeholder",
+    "role_title": "Railway Officer",
+    "join_date": "2025-08-02",
+    "total_points": null,
+    "level": null,
+    "reports_count": 0,
+    "achievements": [],
+    "favorite_routes": [],
+    "employee_id": "",
+    "department": "",
+    "station_assigned": "",
+    "is_admin": false,
+    "is_stakeholder": true
+  },
+  "admin12345": {
+    "name": "admin ka bhai",
+    "email": "akakrai191@gmail.com",
+    "phone": "",
+    "city": "punjab",
+    "password": "admin12345",
+    "user_type": "admin",
+    "role_title": "Admin",
+    "join_date": "2025-08-02",
+    "total_points": null,
+    "level": null,
+    "reports_count": 0,
+    "achievements": [],
+    "favorite_routes": [],
+    "employee_id": "",
+    "department": "",
+    "station_assigned": "",
+    "is_admin": true,
+    "is_stakeholder": false
+  },
+  "suhani": {
+    "name": "suhani",
+    "email": "suhani99@gmail.com",
+    "phone": "880008369",
+    "city": "himachal",
+    "password": "suhani",
+    "user_type": "stakeholder",
+    "role_title": "Station Master",
+    "join_date": "2025-08-02",
+    "total_points": null,
+    "level": null,
+    "reports_count": 0,
+    "achievements": [],
+    "favorite_routes": [],
+    "employee_id": "",
+    "department": "",
+    "station_assigned": "",
+    "is_admin": false,
+    "is_stakeholder": true
+  },
+  "vansaj": {
+    "name": "vansaj",
+    "email": "vansaj@gmail.com",
+    "phone": "7217605489",
+    "city": "lucknow",
+    "password": "vansaj",
+    "user_type": "passenger",
+    "role_title": "Passenger",
+    "join_date": "2025-08-02",
+    "total_points": 135,
+    "level": 3,
+    "reports_count": 9,
+    "achievements": [
+      "First Reporter",
+      "Photo Evidence"
+    ],
+    "favorite_routes": []
+  }
+}
